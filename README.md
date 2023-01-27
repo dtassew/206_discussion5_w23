@@ -14,6 +14,4 @@ To push your commits to github use:
 
 git push
 
-Make at least 4 commits.
-
 Submit the url for your repository on github on Canvas by the due date.
